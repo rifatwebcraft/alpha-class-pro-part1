@@ -1,5 +1,7 @@
 /* google fonts poppins */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+/* google anton fonts */
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 
 /* poppins fonts style */
@@ -31,4 +33,11 @@
     font-weight: 800;
     font-style: normal;
   }
+  /* anton styles */
+  .anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
   
